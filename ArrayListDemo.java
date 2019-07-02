@@ -6,7 +6,7 @@ package testing;
  *  
  *  Deskripsi :
  *  	Belajar membuat code dengan menggunakan salah satu komponen dari Collection API
- *  yaitu List. List memiliki fungsi yang sama yaitu menyimpan data, akan tetapi List memiliki sifat dinamis dalam ukuran
+ *  yaitu List. List memiliki fungsi yang sama dengan array yaitu menyimpan data, akan tetapi List memiliki sifat dinamis dalam ukuran
  *  indeks yang berarti tidak terbatas dalam memasukan data. Serta data dapat diduplikasi dan dihapus.
  *   
  */
